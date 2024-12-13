@@ -3,7 +3,5 @@
 
 MiniTrader现已支持CTP、TTS、中泰证券XTP柜台、华鑫TORA股票柜台、华鑫TORA股票期权柜台、东方财富EMT柜台、易达柜台。
 
-看Star情况，在适当的时候开源。
-
 # 界面
 <img width="731" alt="MiniTrader" src="https://github.com/openctp/MiniTrader/assets/83346523/4cff1984-e5eb-41ff-b264-bfeea46d1d44">
